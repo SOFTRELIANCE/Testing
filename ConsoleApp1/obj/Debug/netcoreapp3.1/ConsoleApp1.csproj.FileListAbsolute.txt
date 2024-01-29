@@ -1,0 +1,11 @@
+C:\UDEMY_TRANING_CHARP\Testing\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\UDEMY_TRANING_CHARP\Testing\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\UDEMY_TRANING_CHARP\Testing\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\UDEMY_TRANING_CHARP\Testing\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\UDEMY_TRANING_CHARP\Testing\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\UDEMY_TRANING_CHARP\Testing\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\UDEMY_TRANING_CHARP\Testing\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\UDEMY_TRANING_CHARP\Testing\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\UDEMY_TRANING_CHARP\Testing\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\UDEMY_TRANING_CHARP\Testing\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\UDEMY_TRANING_CHARP\Testing\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
